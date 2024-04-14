@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js \"Возможно какие-то проблемы со стилиями\"",
+    "dev": "nodemon app.js \"Возможны какие-то проблемы со стилиями\"",
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
